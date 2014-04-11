@@ -1,0 +1,5 @@
+name: My Jekyll Skeleton
+markdown: redcarpet
+pygments: true
+baseurl: /SpatialStatisticsFFT
+imgbase: /assets

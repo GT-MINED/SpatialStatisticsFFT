@@ -1,1 +1,11 @@
-*.m~
+_site
+
+# Matlab files to ignore
+*.m
+*.mat
+
+# Autosave files
+*~
+
+# Ignore the Skeleton zip
+jekyll-skeleton.zip
